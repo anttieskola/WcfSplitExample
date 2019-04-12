@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0dcbc945-fb02-4078-947c-5d24fe86ce1c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/SplitService/BookServiceOne/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="38aef786-a3dd-4f29-bb50-e790495eb960" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SplitService/BookServiceOne/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="f6ab90c3-171a-4915-8b23-ff8e4dc41d4c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SplitService/BookServiceOne/mex" />
+    <MetadataFile FileName="Data.xsd" MetadataType="Schema" ID="93f4fa63-62bd-4cde-8aed-54d5681eac03" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SplitService/BookServiceOne/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="2389a8af-f304-4f0d-93cd-c0daad45e777" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SplitService/BookServiceOne/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
